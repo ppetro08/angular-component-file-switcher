@@ -2,6 +2,10 @@
   "name": "angular-component-file-switcher",
   "displayName": "Angular Component File Switcher",
   "description": "Allows you to switch between a component, template and stylesheet file associated with a component.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppetro08/angular-component-file-switcher"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.77.0"
